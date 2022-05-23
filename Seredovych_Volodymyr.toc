@@ -1,0 +1,42 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ukrainian}{}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Вступ}{3}{section*.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Постановка задачі}{4}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Порівняння машинного та статистичного навчання}{4}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Оцінка функції $f$}{6}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Категоризація методів навчання}{9}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Задачі регресії та задачі класифікації}{9}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Лінійні та нелінійні методи}{9}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Параметричні та непараметричні методи}{10}{subsection.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Навчання з наглядом та без нагляду}{11}{subsection.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Оцінка якості методів}{13}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Середня квадратична похибка (MSE)}{13}{subsection.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Компроміс зсуву та дисперсії}{14}{subsection.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Налаштування класифікації}{15}{subsection.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Перехресна перевірка (Cross validation)}{15}{subsection.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Перехресна перевірка Leave One Out}{16}{subsection.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6}Перехресна перевірка K Fold}{17}{subsection.5.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Тренування і оцінка методів}{19}{section.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Оцінка датасету}{19}{subsection.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Оцінка методів}{20}{subsection.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Висновок}{22}{section.7}%

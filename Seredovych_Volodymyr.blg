@@ -1,0 +1,16 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[1] Config.pm:314> INFO - Logfile is 'Seredovych_Volodymyr.blg'
+[292] biber-MSWIN64:340> INFO - === 
+[408] Biber.pm:415> INFO - Reading 'Seredovych_Volodymyr.bcf'
+[601] Biber.pm:952> INFO - Found 5 citekeys in bib section 0
+[634] Biber.pm:4340> INFO - Processing section 0
+[667] Biber.pm:4531> INFO - Looking for bibtex format file 'literature.bib' for section 0
+[740] bibtex.pm:1689> INFO - LaTeX decoding ...
+[762] bibtex.pm:1494> INFO - Found BibTeX data source 'literature.bib'
+[866] Utils.pm:395> WARN - I didn't find a database entry for 'learning2021' (section 0)
+[881] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'variable = shifted' with 'variable = non-ignorable'
+[882] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[882] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'uk-UA'
+[889] bbl.pm:654> INFO - Writing 'Seredovych_Volodymyr.bbl' with encoding 'UTF-8'
+[892] bbl.pm:757> INFO - Output to Seredovych_Volodymyr.bbl
+[893] Biber.pm:128> INFO - WARNINGS: 1
